@@ -4,13 +4,13 @@
 My research interests are smart cities for people with disabilities, gender equity in information system academia and gender leadership on social media. 
 
 **:star2: Skills**
-▪ 💻 SQL | Python | R
-▪ 📊 Tableau
+💻 SQL | Python | R
+📊 Tableau
 
 
 **🌟 Get in touch**
-▪ 💬 LinkedIn - https://www.linkedin.com/in/shimi-zhou/
-▪ 📧 Email - shimizhou25@gmail.com 
+💬 LinkedIn - https://www.linkedin.com/in/shimi-zhou/
+📧 Email - shimizhou25@gmail.com 
 
 <!---
 ShimiZhou/ShimiZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
