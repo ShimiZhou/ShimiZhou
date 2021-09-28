@@ -5,11 +5,11 @@ My research interests are smart cities for people with disabilities, gender equi
 
 **:star2: Skills**
 
-💻 SQL | Python | R
+  💻 SQL | Python | R
 
-📊 Tableau
+  📊 Tableau
 
-:globe_with_meridians: HTML | CSS | UX design
+  :globe_with_meridians: HTML | CSS | UX design
 
 
 **🌟 Get in touch**
