@@ -1,7 +1,7 @@
 **Hi there 👋 Welcome to my GitHub profile!**
 **I'm Shimi Zhou, a PhD student passionate about data science.**
 
-My research interests are smart cities for people with disabilities, gender equity in information system academia and gender leadership on social media. 
+My research interests are smart cities for people with disabilities, gender equity in information system academia and thought leadership on social media. 
 
 **:star2: Skills**
 
