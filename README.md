@@ -4,6 +4,7 @@
 My research interests are smart cities for people with disabilities, gender equity in information system academia and thought leadership on social media. 
 
 **:star2: Skills**
+
 💻 SQL | Python | R
 
 📊 Tableau
@@ -12,6 +13,7 @@ My research interests are smart cities for people with disabilities, gender equi
 
 
 **🌟 Get in touch**
+
 💬 LinkedIn - https://www.linkedin.com/in/shimi-zhou/
 
 📧 Email - shimizhou25@gmail.com  
