@@ -5,18 +5,18 @@ My research interests are smart cities for people with disabilities, gender equi
 
 **:star2: Skills**
 
-    💻 SQL | Python | R
+        💻 SQL | Python | R
 
-    📊 Tableau
-
-    :globe_with_meridians: HTML | CSS | UX design
+        📊 Tableau
+    
+        🌐 HTML | CSS | UX design
 
 
 **🌟 Get in touch**
 
-    💬 LinkedIn - https://www.linkedin.com/in/shimi-zhou/
+        💬 LinkedIn - https://www.linkedin.com/in/shimi-zhou/
 
-    📧 Email - shimizhou25@gmail.com 
+        📧 Email - shimizhou25@gmail.com 
 
 <!---
 ShimiZhou/ShimiZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
