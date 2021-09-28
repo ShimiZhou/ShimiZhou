@@ -16,7 +16,7 @@ My research interests are smart cities for people with disabilities, gender equi
 
         💬 LinkedIn - https://www.linkedin.com/in/shimi-zhou/
 
-        📧 Email - shimizhou25@gmail.com 
+        📧 Email - shimizhou25@gmail.com  
 
 <!---
 ShimiZhou/ShimiZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
