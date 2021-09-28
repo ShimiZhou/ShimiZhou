@@ -9,6 +9,8 @@ My research interests are smart cities for people with disabilities, gender equi
 
 📊 Tableau
 
+:globe_with_meridians: HTML | CSS | UX design
+
 
 **🌟 Get in touch**
 
