@@ -1,3 +1,6 @@
+**Hi there 👋 Welcome to my GitHub profile!**
+
+
 - 👋 Hi, I’m @ShimiZhou
 - 👀 I’m interested in data science
 - 🌱 I’m currently pursuing PhD degree 
