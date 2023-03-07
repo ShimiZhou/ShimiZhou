@@ -18,7 +18,7 @@ My research interests are smart cities for people with disabilities, gender equi
 
 📧 Email - shimizhou25@gmail.com  
 
-:black_square_button: Portfolio - [shimizhou.com]
+:black_square_button: Portfolio - [shimizhou.com](shimizhou.com)
 
 <!---
 ShimiZhou/ShimiZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
