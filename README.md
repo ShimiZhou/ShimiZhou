@@ -5,12 +5,13 @@ My research interests are smart cities for people with disabilities, scholarly n
 
 **:star2: Skills**
 
-💻 SQL | Python | R
+💻 SQL | Python | R | SAS 
 
 📊 Tableau
     
 🌐 HTML | CSS | UX design
 
+📍 Social Network Analysis (SNA) | Natural Language Processing (NLP)
 
 **🌟 Get in touch**
 
