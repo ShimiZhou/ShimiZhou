@@ -1,5 +1,5 @@
 **Hi there 👋 Welcome to my GitHub profile!**
-**I'm Shimi Zhou, a PhD student passionate about information technology and data science.**
+**I'm Shimi Zhou, a PhD passionate about information technology and data science.**
 
 My research interests are smart cities for people with disabilities, scholarly networks with social network analysis (SNA) and thought leadership on social media. I am open to internships and full-time jobs. Please feel free to contact me by email or message me on LinkedIn. Thank you!
 
