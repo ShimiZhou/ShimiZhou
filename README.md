@@ -1,5 +1,5 @@
 **Hi there 👋 Welcome to my GitHub profile!**
-**I'm Dr. Shimi Zhou, an assistant professor passionate about information technology and data science.**
+**I'm Dr. Shimi Zhou, an Assistant Professor whose work focuses on information systems, data science, and the role of technology in organizations and society.**
 
 My research interests are smart cities for people with disabilities, scholarly networks with social network analysis (SNA) and thought leadership on social media.
 
